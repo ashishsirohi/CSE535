@@ -1,1 +1,1 @@
-SW Hacks 2017 - ASU
+CSE 535 - Mobile Computing
